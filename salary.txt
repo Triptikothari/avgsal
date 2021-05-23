@@ -1,0 +1,12 @@
+1,user1,permanent,100
+2,user2,contract,500
+3,user3,permanent,200
+4,user4,contract,300
+5,user5,permanent,150
+6,user6,contract,700
+7,user7,permanent,300
+8,user8,contract,350
+9,user9,permanent,150
+10,user10,contract,425
+11,user11,permanent,225
+12,user12,contract,725
